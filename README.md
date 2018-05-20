@@ -1,4 +1,20 @@
-# graph
+# Graph implementations and algorithms
 
-## dependencies
+## Dependencies
 * CMake
+
+## Build
+```
+mkdir build
+cd build
+cmake ..
+make
+```
+
+## Implementations
+* adjacency list
+
+## Algorithms
+### Graph traversal
+* depth-first search
+* breadth-first search
