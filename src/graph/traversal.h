@@ -5,4 +5,6 @@
 
 void depth_first_search(struct Graph * graph, struct Vertex * vertex, void (*action)(struct Vertex *));
 
+void breadth_first_search(struct Graph * graph, struct Vertex * vertex, void (*action)(struct Vertex *));
+
 #endif

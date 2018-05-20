@@ -1,3 +1,3 @@
-add_executable(basic basic.c)
+add_executable(traversal traversal.c)
 
-target_link_libraries(basic graph)
+target_link_libraries(traversal graph)
