@@ -1,4 +1,4 @@
-# Graph implementations and algorithms
+# Graph implementations and algorithms [![Build Status](https://travis-ci.org/abeliam/graph.svg?branch=master)](https://travis-ci.org/abeliam/graph)
 
 ## Dependencies
 * CMake
