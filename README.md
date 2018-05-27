@@ -18,3 +18,4 @@ make
 ### Graph traversal
 * depth-first search
 * breadth-first search
+* cycle detection

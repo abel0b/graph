@@ -9,7 +9,8 @@ struct Graph * make_graph () {
         printf("EMEMORY\n");
         exit(1);
     }
-    new_graph->adj = new_graph->vertices = NULL;
+    new_graph->adj = NULL;
+    new_graph->vertices = NULL;
     new_graph->nv = new_graph->ne = 0;
     return new_graph;
 }
